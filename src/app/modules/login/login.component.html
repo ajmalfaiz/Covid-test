@@ -7,6 +7,9 @@
     <div class="col-md-6">
         <div class="card login-form-outer">
             <div class="login-form">
+                <div class="text-center alert alert-info" role="alert">
+                    Login with fingent as username and password
+                  </div>
                 <form class="form-padding" [formGroup]="loginForm" (keyup)="changeLoginValues()" (ngSubmit)="attemptLogin()">
                     <div class="form-group">
                         <label>User Name</label>

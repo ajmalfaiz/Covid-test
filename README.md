@@ -2,6 +2,7 @@
 
 The website is available at https://allstats.web.app
 
+You can login to app with fingent as username and password
 # Covid website build
 Build of the website will be available in the dist folder
 
