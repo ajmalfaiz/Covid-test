@@ -1,3 +1,11 @@
+# Covid Website
+
+The website is available at https://allstats.web.app
+
+# Covid website build
+Build of the website will be available in the dist folder
+
+
 # FingentTestCovid
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
